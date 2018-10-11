@@ -1,4 +1,4 @@
-# django-hierarchy1
+# django-template-hierarchy1
 
 THIS IS A SOLO CLASSWORK
 
